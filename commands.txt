@@ -1,0 +1,7 @@
+cd "directory"
+#chabge the directory of the terminal
+
+touch "filename"."filetype"
+#creating a file in
+
+
