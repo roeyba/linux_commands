@@ -1,7 +1,17 @@
-cd "directory"
-#chabge the directory of the terminal
+//directory and files in general
 
-touch "filename"."filetype"
-#creating a file in
+$cd "directory"
+chabge the directory of the terminal
+$touch "filename"."filetype"
+creating a file in
 
 
+//appimage files
+
+$ chmod a+x "nameoffile".AppImage
+making a appimage file(file for downloading applicatons) an executable one.
+$./"nameoffile".AppImage
+run the executable appimage file
+
+
+//
